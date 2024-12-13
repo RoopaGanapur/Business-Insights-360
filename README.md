@@ -86,16 +86,18 @@ Poor data modeling affects the over all performance of the report.
 **Dashboard Design**
 
 Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
-Home view
+- [x] Home view
+
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
-Info
-Finance View
-Sales View
-Marketing View
-Supply chain View
-Executive View
-Products
-Support
+
+- [x] Info
+- [x] Finance View
+- [x] Sales View
+- [x] Marketing View
+- [x] Supply chain View
+- [x] Executive View
+
+
 
 you can find the full report file here : Report
 
