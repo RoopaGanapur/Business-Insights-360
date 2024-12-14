@@ -91,11 +91,11 @@ Based on the mock ups received as requirement, the team will start designing the
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
 - [x]  _[Home View](https://github.com/RoopaGanapur/Business-Insights-360/blob/main/Home%20View.png)_
-- [x] Finance View
-- [x] Sales View
-- [x] Marketing View
-- [x] Supply chain View
-- [x] Executive View
+- [x]    _[Sales View](https://github.com/RoopaGanapur/Business-Insights-360/blob/main/Sales%20View.png)_
+- [x]  _[Marketing View](https://github.com/RoopaGanapur/Business-Insights-360/blob/main/Marketing%20View.png)_
+- [x]  _[Finance View](https://github.com/RoopaGanapur/Business-Insights-360/blob/main/Finance%20View.png)_
+- [x]  _[Supply Chain View](https://github.com/RoopaGanapur/Business-Insights-360/blob/main/Supply Chain%20View.png)_
+- [x]  _[Executive View](https://github.com/RoopaGanapur/Business-Insights-360/blob/main/Executive%20View.png)_
 
 
 
