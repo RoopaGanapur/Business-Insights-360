@@ -90,7 +90,7 @@ Based on the mock ups received as requirement, the team will start designing the
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
-- [x]  _[Info](https://github.com/RoopaGanapur/Pizza-Sales-Project-EXCEL-SQL/blob/main/Excel%20Pizza%20Sales%20Dashboard.pdf)_
+- [x]  _[Home View](https://github.com/RoopaGanapur/Business-Insights-360/blob/main/Home%20View.png)_
 - [x] Finance View
 - [x] Sales View
 - [x] Marketing View
